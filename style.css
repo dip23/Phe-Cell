@@ -14,6 +14,12 @@ h3{
 	text-align: center;
 	font-weight: 100;
 }
+
+h4{
+	text-align: center;
+	font-weight: 100;
+	color: #8d8d8d
+}
  
 .tulisan_login{
 	text-align: center;
@@ -21,11 +27,11 @@ h3{
 	text-transform: uppercase;
 }
  
-#kotak_login{
+.kotak{
 	width: 350px;
 	background: white;
 	/*meletakkan form ke tengah*/
-	margin: 80px auto;
+	margin: 40px auto;
 	padding: 30px 20px;
 }
  
@@ -51,9 +57,32 @@ label{
 	border-radius: 3px;
 	padding: 10px 20px;
 }
+
+.tombol_regist{
+	background: #5947fc;
+	color: white;
+	font-size: 11pt;
+	width: 100%;
+	border: none;
+	border-radius: 3px;
+	padding: 10px 20px;
+}
  
 .link{
 	color: #232323;
 	text-decoration: none;
 	font-size: 10pt;
 }
+
+.tombol{
+	background:#2C97DF;
+	color:white;
+	border-top:0;
+	border-left:0;
+	border-right:0;
+	border-bottom:5px solid #2A80B9;
+	padding:10px 20px;
+	text-decoration:none;
+	font-family:sans-serif;
+	font-size:11pt;
+  }
