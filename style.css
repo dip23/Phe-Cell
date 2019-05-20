@@ -1,5 +1,5 @@
 body{
-	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	font-family: sans-serif;
 	background: #f5ff67;
 }
  
@@ -59,7 +59,7 @@ label{
 }
 
 .tombol_regist{
-	background: #5947fc;
+	background: #2C97DF;
 	color: white;
 	font-size: 11pt;
 	width: 100%;
@@ -69,12 +69,13 @@ label{
 }
  
 .link{
-	color: #232323;
+	color: #636161;
 	text-decoration: none;
-	font-size: 10pt;
+	font-size: 11pt;
 }
 
 .tombol{
+	width: 100%;
 	background:#2C97DF;
 	color:white;
 	border-top:0;
