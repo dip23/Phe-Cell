@@ -39,6 +39,7 @@ h4{
 	/*membuat semua huruf menjadi kapital*/
 	text-transform: uppercase;
 	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	font-size: 20pt
 }
  
 .kotak{
@@ -201,3 +202,8 @@ tbody tr:hover{
   .select-items div:hover, .same-as-selected {
 	background-color: rgba(0, 0, 0, 0.1);
   }
+
+.navbar-inverse{
+	background-color: rgb(109, 49, 8);
+	color: #fff
+}
